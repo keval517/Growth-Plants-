@@ -4,7 +4,7 @@ import PlantsOPtions from './PlantsOPtions'
 
 function Plants() {
   return (
-    <div id='1' className='border-solid border-[7px] border-white rounded-[30px] w-screen h-screen'>
+    <div id='shop' className='border-solid border-[7px] border-white rounded-[30px] w-screen h-screen'>
         <Main/>
         <PlantsOPtions/>
     </div>
